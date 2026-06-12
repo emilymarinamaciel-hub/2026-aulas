@@ -1,0 +1,26 @@
+h1 {
+color: rgb(0, 0, 0); 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#primeiro-para {
+    color: rgb(255, 237, 159);
+    background-color: rgb(255, 166, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+#segundo-para {
+    color: rgb(124, 70, 8);
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#terceiro-para {
+    color: rgb(208, 216, 252);
+    background-color: rgb(140, 0, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+.paragraf {
+    text-align: justify;
+    
+}
